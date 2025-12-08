@@ -34,7 +34,7 @@ A modern, responsive portfolio website built with Tailwind CSS and a fully mobil
 
 ---
 
-## Acknowledgement:
+## Acknowledgement
 
 Special thanks to [Anbuselvan Rocky](https://github.com/anburocky3) for his valuable mentorship.
 
